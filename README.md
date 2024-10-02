@@ -47,8 +47,3 @@ In order to save the length of converted value, I design to print octal form wit
 Hint: `printf` will return the length of string.
 
 Save the length and give it different calculater to convert to octal form and filp it according to the length.
-
-### HW0104
-
-Use three kinds of variable:
->
