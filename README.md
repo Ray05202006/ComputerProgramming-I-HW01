@@ -29,7 +29,9 @@ For Example:
 printf("\x1b[31mYou are sunlight and I moon\n");
 ``` 
 `\x1b`  Start the escape sequences
+
 `[`     Control Sequence Introducer(CSI)
+
 `31m`   Sets colors and style(*31* means Set foreground color to red)
 
 ### HW0102
